@@ -1,3 +1,3 @@
 # 336final
 
-Database system application for Rutgers CS336
+Database system application group project for Rutgers CS336
