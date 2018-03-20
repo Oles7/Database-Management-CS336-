@@ -1,1 +1,3 @@
-# Database-Management-CS336-
+# 336final
+
+Database system application for Rutgers CS336
